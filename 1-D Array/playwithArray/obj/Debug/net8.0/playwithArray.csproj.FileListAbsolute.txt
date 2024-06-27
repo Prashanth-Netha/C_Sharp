@@ -1,0 +1,14 @@
+D:\Desktop\playwithArray\bin\Debug\net8.0\playwithArray.exe
+D:\Desktop\playwithArray\bin\Debug\net8.0\playwithArray.deps.json
+D:\Desktop\playwithArray\bin\Debug\net8.0\playwithArray.runtimeconfig.json
+D:\Desktop\playwithArray\bin\Debug\net8.0\playwithArray.dll
+D:\Desktop\playwithArray\bin\Debug\net8.0\playwithArray.pdb
+D:\Desktop\playwithArray\obj\Debug\net8.0\playwithArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\playwithArray\obj\Debug\net8.0\playwithArray.AssemblyInfoInputs.cache
+D:\Desktop\playwithArray\obj\Debug\net8.0\playwithArray.AssemblyInfo.cs
+D:\Desktop\playwithArray\obj\Debug\net8.0\playwithArray.csproj.CoreCompileInputs.cache
+D:\Desktop\playwithArray\obj\Debug\net8.0\playwithArray.dll
+D:\Desktop\playwithArray\obj\Debug\net8.0\refint\playwithArray.dll
+D:\Desktop\playwithArray\obj\Debug\net8.0\playwithArray.pdb
+D:\Desktop\playwithArray\obj\Debug\net8.0\playwithArray.genruntimeconfig.cache
+D:\Desktop\playwithArray\obj\Debug\net8.0\ref\playwithArray.dll
