@@ -1,0 +1,14 @@
+D:\Desktop\playingwithstrings\bin\Debug\net8.0\playingwithstrings.exe
+D:\Desktop\playingwithstrings\bin\Debug\net8.0\playingwithstrings.deps.json
+D:\Desktop\playingwithstrings\bin\Debug\net8.0\playingwithstrings.runtimeconfig.json
+D:\Desktop\playingwithstrings\bin\Debug\net8.0\playingwithstrings.dll
+D:\Desktop\playingwithstrings\bin\Debug\net8.0\playingwithstrings.pdb
+D:\Desktop\playingwithstrings\obj\Debug\net8.0\playingwithstrings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\playingwithstrings\obj\Debug\net8.0\playingwithstrings.AssemblyInfoInputs.cache
+D:\Desktop\playingwithstrings\obj\Debug\net8.0\playingwithstrings.AssemblyInfo.cs
+D:\Desktop\playingwithstrings\obj\Debug\net8.0\playingwithstrings.csproj.CoreCompileInputs.cache
+D:\Desktop\playingwithstrings\obj\Debug\net8.0\playingwithstrings.dll
+D:\Desktop\playingwithstrings\obj\Debug\net8.0\refint\playingwithstrings.dll
+D:\Desktop\playingwithstrings\obj\Debug\net8.0\playingwithstrings.pdb
+D:\Desktop\playingwithstrings\obj\Debug\net8.0\playingwithstrings.genruntimeconfig.cache
+D:\Desktop\playingwithstrings\obj\Debug\net8.0\ref\playingwithstrings.dll
