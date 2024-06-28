@@ -1,0 +1,14 @@
+D:\Desktop\C#\Recursion\recurrsion\bin\Debug\net8.0\recurrsion.exe
+D:\Desktop\C#\Recursion\recurrsion\bin\Debug\net8.0\recurrsion.deps.json
+D:\Desktop\C#\Recursion\recurrsion\bin\Debug\net8.0\recurrsion.runtimeconfig.json
+D:\Desktop\C#\Recursion\recurrsion\bin\Debug\net8.0\recurrsion.dll
+D:\Desktop\C#\Recursion\recurrsion\bin\Debug\net8.0\recurrsion.pdb
+D:\Desktop\C#\Recursion\recurrsion\obj\Debug\net8.0\recurrsion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\Recursion\recurrsion\obj\Debug\net8.0\recurrsion.AssemblyInfoInputs.cache
+D:\Desktop\C#\Recursion\recurrsion\obj\Debug\net8.0\recurrsion.AssemblyInfo.cs
+D:\Desktop\C#\Recursion\recurrsion\obj\Debug\net8.0\recurrsion.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\Recursion\recurrsion\obj\Debug\net8.0\recurrsion.dll
+D:\Desktop\C#\Recursion\recurrsion\obj\Debug\net8.0\refint\recurrsion.dll
+D:\Desktop\C#\Recursion\recurrsion\obj\Debug\net8.0\recurrsion.pdb
+D:\Desktop\C#\Recursion\recurrsion\obj\Debug\net8.0\recurrsion.genruntimeconfig.cache
+D:\Desktop\C#\Recursion\recurrsion\obj\Debug\net8.0\ref\recurrsion.dll
