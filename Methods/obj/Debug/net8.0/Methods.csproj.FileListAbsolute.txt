@@ -1,0 +1,14 @@
+D:\Desktop\C#\Methods\Methods\bin\Debug\net8.0\Methods.exe
+D:\Desktop\C#\Methods\Methods\bin\Debug\net8.0\Methods.deps.json
+D:\Desktop\C#\Methods\Methods\bin\Debug\net8.0\Methods.runtimeconfig.json
+D:\Desktop\C#\Methods\Methods\bin\Debug\net8.0\Methods.dll
+D:\Desktop\C#\Methods\Methods\bin\Debug\net8.0\Methods.pdb
+D:\Desktop\C#\Methods\Methods\obj\Debug\net8.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\Methods\Methods\obj\Debug\net8.0\Methods.AssemblyInfoInputs.cache
+D:\Desktop\C#\Methods\Methods\obj\Debug\net8.0\Methods.AssemblyInfo.cs
+D:\Desktop\C#\Methods\Methods\obj\Debug\net8.0\Methods.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\Methods\Methods\obj\Debug\net8.0\Methods.dll
+D:\Desktop\C#\Methods\Methods\obj\Debug\net8.0\refint\Methods.dll
+D:\Desktop\C#\Methods\Methods\obj\Debug\net8.0\Methods.pdb
+D:\Desktop\C#\Methods\Methods\obj\Debug\net8.0\Methods.genruntimeconfig.cache
+D:\Desktop\C#\Methods\Methods\obj\Debug\net8.0\ref\Methods.dll
