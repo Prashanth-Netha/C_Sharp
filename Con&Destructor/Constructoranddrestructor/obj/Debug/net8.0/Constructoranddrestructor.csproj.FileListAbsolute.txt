@@ -1,0 +1,14 @@
+D:\Desktop\C#\Con&Destructor\Constructoranddrestructor\bin\Debug\net8.0\Constructoranddrestructor.exe
+D:\Desktop\C#\Con&Destructor\Constructoranddrestructor\bin\Debug\net8.0\Constructoranddrestructor.deps.json
+D:\Desktop\C#\Con&Destructor\Constructoranddrestructor\bin\Debug\net8.0\Constructoranddrestructor.runtimeconfig.json
+D:\Desktop\C#\Con&Destructor\Constructoranddrestructor\bin\Debug\net8.0\Constructoranddrestructor.dll
+D:\Desktop\C#\Con&Destructor\Constructoranddrestructor\bin\Debug\net8.0\Constructoranddrestructor.pdb
+D:\Desktop\C#\Con&Destructor\Constructoranddrestructor\obj\Debug\net8.0\Constructoranddrestructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\Con&Destructor\Constructoranddrestructor\obj\Debug\net8.0\Constructoranddrestructor.AssemblyInfoInputs.cache
+D:\Desktop\C#\Con&Destructor\Constructoranddrestructor\obj\Debug\net8.0\Constructoranddrestructor.AssemblyInfo.cs
+D:\Desktop\C#\Con&Destructor\Constructoranddrestructor\obj\Debug\net8.0\Constructoranddrestructor.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\Con&Destructor\Constructoranddrestructor\obj\Debug\net8.0\Constructoranddrestructor.dll
+D:\Desktop\C#\Con&Destructor\Constructoranddrestructor\obj\Debug\net8.0\refint\Constructoranddrestructor.dll
+D:\Desktop\C#\Con&Destructor\Constructoranddrestructor\obj\Debug\net8.0\Constructoranddrestructor.pdb
+D:\Desktop\C#\Con&Destructor\Constructoranddrestructor\obj\Debug\net8.0\Constructoranddrestructor.genruntimeconfig.cache
+D:\Desktop\C#\Con&Destructor\Constructoranddrestructor\obj\Debug\net8.0\ref\Constructoranddrestructor.dll

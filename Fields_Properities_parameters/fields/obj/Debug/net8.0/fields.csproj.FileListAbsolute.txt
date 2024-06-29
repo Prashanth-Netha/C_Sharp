@@ -1,0 +1,14 @@
+D:\Desktop\C#\Fields_Properities_parameters\fields\bin\Debug\net8.0\fields.exe
+D:\Desktop\C#\Fields_Properities_parameters\fields\bin\Debug\net8.0\fields.deps.json
+D:\Desktop\C#\Fields_Properities_parameters\fields\bin\Debug\net8.0\fields.runtimeconfig.json
+D:\Desktop\C#\Fields_Properities_parameters\fields\bin\Debug\net8.0\fields.dll
+D:\Desktop\C#\Fields_Properities_parameters\fields\bin\Debug\net8.0\fields.pdb
+D:\Desktop\C#\Fields_Properities_parameters\fields\obj\Debug\net8.0\fields.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\Fields_Properities_parameters\fields\obj\Debug\net8.0\fields.AssemblyInfoInputs.cache
+D:\Desktop\C#\Fields_Properities_parameters\fields\obj\Debug\net8.0\fields.AssemblyInfo.cs
+D:\Desktop\C#\Fields_Properities_parameters\fields\obj\Debug\net8.0\fields.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\Fields_Properities_parameters\fields\obj\Debug\net8.0\fields.dll
+D:\Desktop\C#\Fields_Properities_parameters\fields\obj\Debug\net8.0\refint\fields.dll
+D:\Desktop\C#\Fields_Properities_parameters\fields\obj\Debug\net8.0\fields.pdb
+D:\Desktop\C#\Fields_Properities_parameters\fields\obj\Debug\net8.0\fields.genruntimeconfig.cache
+D:\Desktop\C#\Fields_Properities_parameters\fields\obj\Debug\net8.0\ref\fields.dll
