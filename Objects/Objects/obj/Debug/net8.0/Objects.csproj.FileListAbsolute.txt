@@ -1,0 +1,14 @@
+D:\Desktop\C#\Objects\Objects\bin\Debug\net8.0\Objects.exe
+D:\Desktop\C#\Objects\Objects\bin\Debug\net8.0\Objects.deps.json
+D:\Desktop\C#\Objects\Objects\bin\Debug\net8.0\Objects.runtimeconfig.json
+D:\Desktop\C#\Objects\Objects\bin\Debug\net8.0\Objects.dll
+D:\Desktop\C#\Objects\Objects\bin\Debug\net8.0\Objects.pdb
+D:\Desktop\C#\Objects\Objects\obj\Debug\net8.0\Objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\Objects\Objects\obj\Debug\net8.0\Objects.AssemblyInfoInputs.cache
+D:\Desktop\C#\Objects\Objects\obj\Debug\net8.0\Objects.AssemblyInfo.cs
+D:\Desktop\C#\Objects\Objects\obj\Debug\net8.0\Objects.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\Objects\Objects\obj\Debug\net8.0\Objects.dll
+D:\Desktop\C#\Objects\Objects\obj\Debug\net8.0\refint\Objects.dll
+D:\Desktop\C#\Objects\Objects\obj\Debug\net8.0\Objects.pdb
+D:\Desktop\C#\Objects\Objects\obj\Debug\net8.0\Objects.genruntimeconfig.cache
+D:\Desktop\C#\Objects\Objects\obj\Debug\net8.0\ref\Objects.dll
