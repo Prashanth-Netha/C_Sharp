@@ -1,0 +1,14 @@
+D:\Desktop\C#\OOPS\Encapsualtion\Encapsulatiom\bin\Debug\net8.0\Encapsulatiom.exe
+D:\Desktop\C#\OOPS\Encapsualtion\Encapsulatiom\bin\Debug\net8.0\Encapsulatiom.deps.json
+D:\Desktop\C#\OOPS\Encapsualtion\Encapsulatiom\bin\Debug\net8.0\Encapsulatiom.runtimeconfig.json
+D:\Desktop\C#\OOPS\Encapsualtion\Encapsulatiom\bin\Debug\net8.0\Encapsulatiom.dll
+D:\Desktop\C#\OOPS\Encapsualtion\Encapsulatiom\bin\Debug\net8.0\Encapsulatiom.pdb
+D:\Desktop\C#\OOPS\Encapsualtion\Encapsulatiom\obj\Debug\net8.0\Encapsulatiom.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\OOPS\Encapsualtion\Encapsulatiom\obj\Debug\net8.0\Encapsulatiom.AssemblyInfoInputs.cache
+D:\Desktop\C#\OOPS\Encapsualtion\Encapsulatiom\obj\Debug\net8.0\Encapsulatiom.AssemblyInfo.cs
+D:\Desktop\C#\OOPS\Encapsualtion\Encapsulatiom\obj\Debug\net8.0\Encapsulatiom.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\OOPS\Encapsualtion\Encapsulatiom\obj\Debug\net8.0\Encapsulatiom.dll
+D:\Desktop\C#\OOPS\Encapsualtion\Encapsulatiom\obj\Debug\net8.0\refint\Encapsulatiom.dll
+D:\Desktop\C#\OOPS\Encapsualtion\Encapsulatiom\obj\Debug\net8.0\Encapsulatiom.pdb
+D:\Desktop\C#\OOPS\Encapsualtion\Encapsulatiom\obj\Debug\net8.0\Encapsulatiom.genruntimeconfig.cache
+D:\Desktop\C#\OOPS\Encapsualtion\Encapsulatiom\obj\Debug\net8.0\ref\Encapsulatiom.dll
