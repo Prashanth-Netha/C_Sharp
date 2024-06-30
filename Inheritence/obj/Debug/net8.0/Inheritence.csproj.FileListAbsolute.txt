@@ -1,0 +1,14 @@
+D:\Desktop\C#\OOPS\Inheritence\Inheritence\bin\Debug\net8.0\Inheritence.exe
+D:\Desktop\C#\OOPS\Inheritence\Inheritence\bin\Debug\net8.0\Inheritence.deps.json
+D:\Desktop\C#\OOPS\Inheritence\Inheritence\bin\Debug\net8.0\Inheritence.runtimeconfig.json
+D:\Desktop\C#\OOPS\Inheritence\Inheritence\bin\Debug\net8.0\Inheritence.dll
+D:\Desktop\C#\OOPS\Inheritence\Inheritence\bin\Debug\net8.0\Inheritence.pdb
+D:\Desktop\C#\OOPS\Inheritence\Inheritence\obj\Debug\net8.0\Inheritence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\OOPS\Inheritence\Inheritence\obj\Debug\net8.0\Inheritence.AssemblyInfoInputs.cache
+D:\Desktop\C#\OOPS\Inheritence\Inheritence\obj\Debug\net8.0\Inheritence.AssemblyInfo.cs
+D:\Desktop\C#\OOPS\Inheritence\Inheritence\obj\Debug\net8.0\Inheritence.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\OOPS\Inheritence\Inheritence\obj\Debug\net8.0\Inheritence.dll
+D:\Desktop\C#\OOPS\Inheritence\Inheritence\obj\Debug\net8.0\refint\Inheritence.dll
+D:\Desktop\C#\OOPS\Inheritence\Inheritence\obj\Debug\net8.0\Inheritence.pdb
+D:\Desktop\C#\OOPS\Inheritence\Inheritence\obj\Debug\net8.0\Inheritence.genruntimeconfig.cache
+D:\Desktop\C#\OOPS\Inheritence\Inheritence\obj\Debug\net8.0\ref\Inheritence.dll
