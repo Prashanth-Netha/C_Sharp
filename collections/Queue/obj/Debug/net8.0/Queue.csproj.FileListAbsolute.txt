@@ -1,0 +1,14 @@
+D:\Desktop\C#\Collection\Queue\Queue\bin\Debug\net8.0\Queue.exe
+D:\Desktop\C#\Collection\Queue\Queue\bin\Debug\net8.0\Queue.deps.json
+D:\Desktop\C#\Collection\Queue\Queue\bin\Debug\net8.0\Queue.runtimeconfig.json
+D:\Desktop\C#\Collection\Queue\Queue\bin\Debug\net8.0\Queue.dll
+D:\Desktop\C#\Collection\Queue\Queue\bin\Debug\net8.0\Queue.pdb
+D:\Desktop\C#\Collection\Queue\Queue\obj\Debug\net8.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\Collection\Queue\Queue\obj\Debug\net8.0\Queue.AssemblyInfoInputs.cache
+D:\Desktop\C#\Collection\Queue\Queue\obj\Debug\net8.0\Queue.AssemblyInfo.cs
+D:\Desktop\C#\Collection\Queue\Queue\obj\Debug\net8.0\Queue.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\Collection\Queue\Queue\obj\Debug\net8.0\Queue.dll
+D:\Desktop\C#\Collection\Queue\Queue\obj\Debug\net8.0\refint\Queue.dll
+D:\Desktop\C#\Collection\Queue\Queue\obj\Debug\net8.0\Queue.pdb
+D:\Desktop\C#\Collection\Queue\Queue\obj\Debug\net8.0\Queue.genruntimeconfig.cache
+D:\Desktop\C#\Collection\Queue\Queue\obj\Debug\net8.0\ref\Queue.dll

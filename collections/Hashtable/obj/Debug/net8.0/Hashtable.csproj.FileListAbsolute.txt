@@ -1,0 +1,14 @@
+D:\Desktop\C#\Collection\Hashtable\Hashtable\bin\Debug\net8.0\Hashtable.exe
+D:\Desktop\C#\Collection\Hashtable\Hashtable\bin\Debug\net8.0\Hashtable.deps.json
+D:\Desktop\C#\Collection\Hashtable\Hashtable\bin\Debug\net8.0\Hashtable.runtimeconfig.json
+D:\Desktop\C#\Collection\Hashtable\Hashtable\bin\Debug\net8.0\Hashtable.dll
+D:\Desktop\C#\Collection\Hashtable\Hashtable\bin\Debug\net8.0\Hashtable.pdb
+D:\Desktop\C#\Collection\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\Collection\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.AssemblyInfoInputs.cache
+D:\Desktop\C#\Collection\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.AssemblyInfo.cs
+D:\Desktop\C#\Collection\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\Collection\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.dll
+D:\Desktop\C#\Collection\Hashtable\Hashtable\obj\Debug\net8.0\refint\Hashtable.dll
+D:\Desktop\C#\Collection\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.pdb
+D:\Desktop\C#\Collection\Hashtable\Hashtable\obj\Debug\net8.0\Hashtable.genruntimeconfig.cache
+D:\Desktop\C#\Collection\Hashtable\Hashtable\obj\Debug\net8.0\ref\Hashtable.dll

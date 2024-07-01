@@ -1,0 +1,14 @@
+D:\Desktop\C#\Collection\BitArray\BitArray\bin\Debug\net8.0\BitArray.exe
+D:\Desktop\C#\Collection\BitArray\BitArray\bin\Debug\net8.0\BitArray.deps.json
+D:\Desktop\C#\Collection\BitArray\BitArray\bin\Debug\net8.0\BitArray.runtimeconfig.json
+D:\Desktop\C#\Collection\BitArray\BitArray\bin\Debug\net8.0\BitArray.dll
+D:\Desktop\C#\Collection\BitArray\BitArray\bin\Debug\net8.0\BitArray.pdb
+D:\Desktop\C#\Collection\BitArray\BitArray\obj\Debug\net8.0\BitArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\Collection\BitArray\BitArray\obj\Debug\net8.0\BitArray.AssemblyInfoInputs.cache
+D:\Desktop\C#\Collection\BitArray\BitArray\obj\Debug\net8.0\BitArray.AssemblyInfo.cs
+D:\Desktop\C#\Collection\BitArray\BitArray\obj\Debug\net8.0\BitArray.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\Collection\BitArray\BitArray\obj\Debug\net8.0\BitArray.dll
+D:\Desktop\C#\Collection\BitArray\BitArray\obj\Debug\net8.0\refint\BitArray.dll
+D:\Desktop\C#\Collection\BitArray\BitArray\obj\Debug\net8.0\BitArray.pdb
+D:\Desktop\C#\Collection\BitArray\BitArray\obj\Debug\net8.0\BitArray.genruntimeconfig.cache
+D:\Desktop\C#\Collection\BitArray\BitArray\obj\Debug\net8.0\ref\BitArray.dll
