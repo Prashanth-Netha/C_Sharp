@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "XKrRTAykn0k3wFHfh8LVyvGEoXGHURTFgkWmlZxgIOGaLg67UzAdF4BPAFhbp4ybOenPGNdfiqqNF6MJhYIMiw==",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\C#\\Exceptions\\Exceptions\\Exceptions\\Exceptions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
