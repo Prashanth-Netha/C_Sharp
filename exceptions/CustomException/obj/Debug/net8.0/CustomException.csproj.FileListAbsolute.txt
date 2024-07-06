@@ -1,0 +1,14 @@
+D:\Desktop\C#\Exceptions\CustomException\bin\Debug\net8.0\CustomException.exe
+D:\Desktop\C#\Exceptions\CustomException\bin\Debug\net8.0\CustomException.deps.json
+D:\Desktop\C#\Exceptions\CustomException\bin\Debug\net8.0\CustomException.runtimeconfig.json
+D:\Desktop\C#\Exceptions\CustomException\bin\Debug\net8.0\CustomException.dll
+D:\Desktop\C#\Exceptions\CustomException\bin\Debug\net8.0\CustomException.pdb
+D:\Desktop\C#\Exceptions\CustomException\obj\Debug\net8.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\Exceptions\CustomException\obj\Debug\net8.0\CustomException.AssemblyInfoInputs.cache
+D:\Desktop\C#\Exceptions\CustomException\obj\Debug\net8.0\CustomException.AssemblyInfo.cs
+D:\Desktop\C#\Exceptions\CustomException\obj\Debug\net8.0\CustomException.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\Exceptions\CustomException\obj\Debug\net8.0\CustomException.dll
+D:\Desktop\C#\Exceptions\CustomException\obj\Debug\net8.0\refint\CustomException.dll
+D:\Desktop\C#\Exceptions\CustomException\obj\Debug\net8.0\CustomException.pdb
+D:\Desktop\C#\Exceptions\CustomException\obj\Debug\net8.0\CustomException.genruntimeconfig.cache
+D:\Desktop\C#\Exceptions\CustomException\obj\Debug\net8.0\ref\CustomException.dll
