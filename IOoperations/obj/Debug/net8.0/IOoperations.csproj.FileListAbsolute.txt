@@ -1,0 +1,14 @@
+D:\Desktop\C#\Iooperations\IOoperations\bin\Debug\net8.0\IOoperations.exe
+D:\Desktop\C#\Iooperations\IOoperations\bin\Debug\net8.0\IOoperations.deps.json
+D:\Desktop\C#\Iooperations\IOoperations\bin\Debug\net8.0\IOoperations.runtimeconfig.json
+D:\Desktop\C#\Iooperations\IOoperations\bin\Debug\net8.0\IOoperations.dll
+D:\Desktop\C#\Iooperations\IOoperations\bin\Debug\net8.0\IOoperations.pdb
+D:\Desktop\C#\Iooperations\IOoperations\obj\Debug\net8.0\IOoperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\Iooperations\IOoperations\obj\Debug\net8.0\IOoperations.AssemblyInfoInputs.cache
+D:\Desktop\C#\Iooperations\IOoperations\obj\Debug\net8.0\IOoperations.AssemblyInfo.cs
+D:\Desktop\C#\Iooperations\IOoperations\obj\Debug\net8.0\IOoperations.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\Iooperations\IOoperations\obj\Debug\net8.0\IOoperations.dll
+D:\Desktop\C#\Iooperations\IOoperations\obj\Debug\net8.0\refint\IOoperations.dll
+D:\Desktop\C#\Iooperations\IOoperations\obj\Debug\net8.0\IOoperations.pdb
+D:\Desktop\C#\Iooperations\IOoperations\obj\Debug\net8.0\IOoperations.genruntimeconfig.cache
+D:\Desktop\C#\Iooperations\IOoperations\obj\Debug\net8.0\ref\IOoperations.dll
