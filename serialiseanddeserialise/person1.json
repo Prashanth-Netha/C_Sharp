@@ -1,0 +1,10 @@
+{
+  "Name": "John",
+  "Age": 30,
+  "HomeAddress": {
+    "Street": "123 Main St",
+    "City": "Anytown",
+    "State": "Anystate",
+    "ZipCode": "12345"
+  }
+}

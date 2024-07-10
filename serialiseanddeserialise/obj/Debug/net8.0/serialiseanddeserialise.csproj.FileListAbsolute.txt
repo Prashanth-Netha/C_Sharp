@@ -1,0 +1,14 @@
+D:\Desktop\C#\ISerialisation&Deserialisation\serialiseanddeserialise\bin\Debug\net8.0\serialiseanddeserialise.exe
+D:\Desktop\C#\ISerialisation&Deserialisation\serialiseanddeserialise\bin\Debug\net8.0\serialiseanddeserialise.deps.json
+D:\Desktop\C#\ISerialisation&Deserialisation\serialiseanddeserialise\bin\Debug\net8.0\serialiseanddeserialise.runtimeconfig.json
+D:\Desktop\C#\ISerialisation&Deserialisation\serialiseanddeserialise\bin\Debug\net8.0\serialiseanddeserialise.dll
+D:\Desktop\C#\ISerialisation&Deserialisation\serialiseanddeserialise\bin\Debug\net8.0\serialiseanddeserialise.pdb
+D:\Desktop\C#\ISerialisation&Deserialisation\serialiseanddeserialise\obj\Debug\net8.0\serialiseanddeserialise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\ISerialisation&Deserialisation\serialiseanddeserialise\obj\Debug\net8.0\serialiseanddeserialise.AssemblyInfoInputs.cache
+D:\Desktop\C#\ISerialisation&Deserialisation\serialiseanddeserialise\obj\Debug\net8.0\serialiseanddeserialise.AssemblyInfo.cs
+D:\Desktop\C#\ISerialisation&Deserialisation\serialiseanddeserialise\obj\Debug\net8.0\serialiseanddeserialise.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\ISerialisation&Deserialisation\serialiseanddeserialise\obj\Debug\net8.0\serialiseanddeserialise.dll
+D:\Desktop\C#\ISerialisation&Deserialisation\serialiseanddeserialise\obj\Debug\net8.0\refint\serialiseanddeserialise.dll
+D:\Desktop\C#\ISerialisation&Deserialisation\serialiseanddeserialise\obj\Debug\net8.0\serialiseanddeserialise.pdb
+D:\Desktop\C#\ISerialisation&Deserialisation\serialiseanddeserialise\obj\Debug\net8.0\serialiseanddeserialise.genruntimeconfig.cache
+D:\Desktop\C#\ISerialisation&Deserialisation\serialiseanddeserialise\obj\Debug\net8.0\ref\serialiseanddeserialise.dll
