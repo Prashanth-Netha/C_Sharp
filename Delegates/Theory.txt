@@ -1,0 +1,17 @@
+﻿Delegates are known as function pointer used to call function either one at a time or a sequential method
+
+* Delegates should have same return type of which it is calling.
+
+Single-cast Delegate
+A single-cast delegate is a delegate that references a single method. When the delegate is invoked, it calls the single method it references.
+
+
+Multicast Delegate
+A multicast delegate is a delegate that references multiple methods. When the delegate is invoked, it calls each method in its invocation list, 
+in the order they were added. Multicast delegates are created by combining multiple delegates using the + operator or the += operator, and they can be removed using the - operator or the -= operator.
+
+Single-cast delegates: Reference a single method.
+Multicast delegates: Reference multiple methods and invoke them in sequence.
+Adding Methods: Use the + or += operator to add methods to a multicast delegate.
+Removing Methods: Use the - or -= operator to remove methods from a multicast delegate.
+Invocation Order: Methods are invoked in the order they were added.
