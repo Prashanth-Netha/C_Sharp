@@ -1,0 +1,14 @@
+D:\Desktop\C#\Anonymous_Methodand Lamda\Anonymousmethod\bin\Debug\net8.0\Anonymousmethod.exe
+D:\Desktop\C#\Anonymous_Methodand Lamda\Anonymousmethod\bin\Debug\net8.0\Anonymousmethod.deps.json
+D:\Desktop\C#\Anonymous_Methodand Lamda\Anonymousmethod\bin\Debug\net8.0\Anonymousmethod.runtimeconfig.json
+D:\Desktop\C#\Anonymous_Methodand Lamda\Anonymousmethod\bin\Debug\net8.0\Anonymousmethod.dll
+D:\Desktop\C#\Anonymous_Methodand Lamda\Anonymousmethod\bin\Debug\net8.0\Anonymousmethod.pdb
+D:\Desktop\C#\Anonymous_Methodand Lamda\Anonymousmethod\obj\Debug\net8.0\Anonymousmethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\Anonymous_Methodand Lamda\Anonymousmethod\obj\Debug\net8.0\Anonymousmethod.AssemblyInfoInputs.cache
+D:\Desktop\C#\Anonymous_Methodand Lamda\Anonymousmethod\obj\Debug\net8.0\Anonymousmethod.AssemblyInfo.cs
+D:\Desktop\C#\Anonymous_Methodand Lamda\Anonymousmethod\obj\Debug\net8.0\Anonymousmethod.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\Anonymous_Methodand Lamda\Anonymousmethod\obj\Debug\net8.0\Anonymousmethod.dll
+D:\Desktop\C#\Anonymous_Methodand Lamda\Anonymousmethod\obj\Debug\net8.0\refint\Anonymousmethod.dll
+D:\Desktop\C#\Anonymous_Methodand Lamda\Anonymousmethod\obj\Debug\net8.0\Anonymousmethod.pdb
+D:\Desktop\C#\Anonymous_Methodand Lamda\Anonymousmethod\obj\Debug\net8.0\Anonymousmethod.genruntimeconfig.cache
+D:\Desktop\C#\Anonymous_Methodand Lamda\Anonymousmethod\obj\Debug\net8.0\ref\Anonymousmethod.dll
