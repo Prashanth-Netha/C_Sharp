@@ -1,0 +1,14 @@
+D:\Desktop\C#\Threads\Threads\bin\Debug\net8.0\Threads.exe
+D:\Desktop\C#\Threads\Threads\bin\Debug\net8.0\Threads.deps.json
+D:\Desktop\C#\Threads\Threads\bin\Debug\net8.0\Threads.runtimeconfig.json
+D:\Desktop\C#\Threads\Threads\bin\Debug\net8.0\Threads.dll
+D:\Desktop\C#\Threads\Threads\bin\Debug\net8.0\Threads.pdb
+D:\Desktop\C#\Threads\Threads\obj\Debug\net8.0\Threads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C#\Threads\Threads\obj\Debug\net8.0\Threads.AssemblyInfoInputs.cache
+D:\Desktop\C#\Threads\Threads\obj\Debug\net8.0\Threads.AssemblyInfo.cs
+D:\Desktop\C#\Threads\Threads\obj\Debug\net8.0\Threads.csproj.CoreCompileInputs.cache
+D:\Desktop\C#\Threads\Threads\obj\Debug\net8.0\Threads.dll
+D:\Desktop\C#\Threads\Threads\obj\Debug\net8.0\refint\Threads.dll
+D:\Desktop\C#\Threads\Threads\obj\Debug\net8.0\Threads.pdb
+D:\Desktop\C#\Threads\Threads\obj\Debug\net8.0\Threads.genruntimeconfig.cache
+D:\Desktop\C#\Threads\Threads\obj\Debug\net8.0\ref\Threads.dll
